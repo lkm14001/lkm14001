@@ -3,21 +3,7 @@ I'm a Full Stack Developer ( MERN ) based in Vizag, India. <br>Continuously seek
 
 
 # Checkout My Portfolio
-<link href="style.css" rel="stylesheet"></link>
-<div id="arrowAnim">
-  <div class="arrowSliding">
-    <div class="arrow"></div>
-  </div>
-  <div class="arrowSliding delay1">
-    <div class="arrow"></div>
-  </div>
-  <div class="arrowSliding delay2">
-    <div class="arrow"></div>
-  </div>
-  <div class="arrowSliding delay3">
-    <div class="arrow"></div>
-  </div>
-</div> [![Portfolio](https://img.shields.io/badge/Portfolio-%231572B6.svg?style=for-the-badge&logoColor=white)](https://webwithleela.web.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%231572B6.svg?style=for-the-badge&logoColor=white)](https://webwithleela.web.app)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/leela-krishna-mohan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnaleela35@gmail.com) 
