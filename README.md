@@ -1,6 +1,22 @@
-# 💫 Hey There, I'm Leela Krishna:
+# 💫 Hey There, I'm Leela Krishna
 I'm a Full Stack Developer ( MERN ) based in Vizag, India. <br>Continuously seeking the latest trends, I enjoy taking on new challenges and learning new technologies. <br>Beyond coding, I’m always eager to explore new technologies, especially Web3 and blockchain development. <br>In my free time, you’ll find me playing basketball with friends, binge-watching Netflix series, or going on bike rides. <br>Let’s connect and build something amazing!
 
+
+# Checkout My Portfolio
+<div id="arrowAnim">
+  <div class="arrowSliding">
+    <div class="arrow"></div>
+  </div>
+  <div class="arrowSliding delay1">
+    <div class="arrow"></div>
+  </div>
+  <div class="arrowSliding delay2">
+    <div class="arrow"></div>
+  </div>
+  <div class="arrowSliding delay3">
+    <div class="arrow"></div>
+  </div>
+</div> [![Portfolio](https://img.shields.io/badge/Portfolio-%231572B6.svg?style=for-the-badge&logoColor=white)](https://webwithleela.web.app)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/leela-krishna-mohan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnaleela35@gmail.com) 
