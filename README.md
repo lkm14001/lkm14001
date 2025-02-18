@@ -3,6 +3,7 @@ I'm a Full Stack Developer ( MERN ) based in Vizag, India. <br>Continuously seek
 
 
 # Checkout My Portfolio
+<link href="style.css" rel="stylesheet"></link>
 <div id="arrowAnim">
   <div class="arrowSliding">
     <div class="arrow"></div>
